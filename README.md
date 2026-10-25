@@ -7,6 +7,7 @@ A virtual race engineer for **Le Mans Ultimate**. It talks to you on the radio w
 - **Tyres:** wear per tyre, laps to 75 % and 90 %, time lost per lap of age.
 - **Lap times, pace and history:** every lap kept on your PC, your level (Alien → Off Pace) per track and class, every session lap by lap.
 - **Analysis:** speed trace, corners, lock-ups, wheelspin, TC and ABS, track map, standings.
+- **Setup coach:** measures understeer / oversteer, tyre temperatures, lock-ups, wheelspin and bottoming on your laps, reads the exact setup in your car, and tells you which setting to change and why.
 - **Race control:** flags, full course yellow, stopped cars, traffic.
 - **AI brain (optional, free):** with a free Groq or Gemini key he understands anything you say and answers like a person, using only the real data.
 
@@ -23,6 +24,7 @@ In practice and qualifying he stays quiet and only answers you. In the race he c
 | Pace | Your level against the best known lap for the track and class |
 | Sessions | Every session, lap by lap, sectors, tyres, TC / ABS |
 | Analysis | Speed trace, corners, track map, standings |
+| Setup | Reads the setup in your car and tells you what to change, click by click, and why |
 | Radio & mic | Set your wheel radio button (F9 always works), pick and test the microphone |
 | Voice | Pick his voice and speed, with a test |
 | AI brain | Groq / Gemini / other key, model, how natural he talks |
